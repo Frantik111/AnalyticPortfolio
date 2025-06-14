@@ -1,5 +1,5 @@
 # AnalyticPortfolio
-Projekty zamerané na analýzu údajov
+Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpet Slovakia s.r.o.
 
 ## Python + Pandas + JupiterStudio - Data Cleaning
 - Čistenie kontaktných údajov z fakturačného systému
