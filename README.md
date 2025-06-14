@@ -24,8 +24,8 @@ Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpe
   - Zo získaných informácií som pripravil odporúčania na úpravu pravidiel služieb
 - Monitorovanie KPI výkonnosť predajcov
   - Podrobná analýza výkonnosti predajcov (10 rokov)
-  - Vizuálna prezentácia, obzvlášť sa osvedčil Kumulatívny graf, keďže v porovnaní bolo vidieť výchylku vo výkonnosti jednotlivých predajcov
-  - Identifikácia opakujúcich sa schém v oslabeného výkonu, ktoré vyústili v pohovor so zamestnancom
+  - Vizuálna prezentácia, obzvlášť sa osvedčil Kumulatívny graf prírastku, keďže v porovnaní bolo vidieť výchylku vo výkonnosti jednotlivých predajcov
+  - Identifikácia opakujúcich sa schém u oslabeného výkonu, ktoré vyústili v pohovor so zamestnancom
 - Monitorovanie KPI výkonnosť jednotlivých predajní
   - Hrubá ako aj podrobná analýza jednotlivých predajní
   - Na základe pomeru nákladov a výkonu bola ukončená jedna z predajní
