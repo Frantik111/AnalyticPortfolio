@@ -5,7 +5,7 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
 ## 1. Data Cleaning
 > :memo: **Použité nástroje / Technológie:** JupiterStudio, Python + Pandas
 - Cieľ projektu
-  - Očistenie kontaktných údajov z fakturačného systému pre jeho ďaľšie spracovanie
+  - Očistenie kontaktných údajov z fakturačného systému pre jeho ďalšie spracovanie
 - Uskutočnené analýzy
   - Odstránenie duplicít, prázdnych znakov
   - Korekcia názov (kapitalizácia)
@@ -14,7 +14,7 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
   - Uskutočnená **korekcia u 7% údajov**
   - Vytvorenie **internej smernice pre zakladanie nového klienta** s cieľom zabezpečiť správnosť a konzistentnosť údajov.
 
-## 2. Podieľ obratu jednotlivých segmentov (Luxusný obchod s kobercami)
+## 2. Podiel obratu jednotlivých segmentov (Luxusný obchod s kobercami)
 > :memo: **Použité nástroje / Technológie:** Excel
 - Cieľ projektu
   - Identifikácia **najvýkonnejších/najslabších segmentov** tovaru v obrate
@@ -24,7 +24,7 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
   - Identifikácia podielu jednotlivých segmentov na obrate
 - Výsledky a odporúčania
   - Vytvorené odporúčania pre konateľa, **ktoré segmenty podporiť v rozvoji** a ktoré **utlmiť / odstrániť**
-  - Výsledok v monitorovanom obdobý bolo **22% navýšenie obratu u segmentu, ktorý sme podporili v rozvoji**
+  - Výsledok v monitorovanom období bolo **22% navýšenie obratu u segmentu, ktorí sme podporili v rozvoji**
  
   ![Screenshot](podsor.jpg)
 
@@ -41,7 +41,7 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
 ## 4. Monitorovanie KPI výkonnosť predajcov (Luxusný obchod s kobercami)
 > :memo: **Použité nástroje / Technológie:** Excel
 - Cieľ projektu
-  - Kvartálna **kontrola výkonnnosti predajcov**, kontrola výkonnosti na podnet vedúceho personálu
+  - Kvartálna **kontrola výkonnosti predajcov**, kontrola výkonnosti na podnet vedúceho personálu
 - Uskutočnené analýzy
   - Podrobná analýza výkonnosti predajcov (10 rokov)
   - Hľadanie opakujúcich sa vzorcov správania (osvedčil sa Kumulatívny graf prírastku)
@@ -52,11 +52,11 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
 ## 5. Štatistika výkonnosti klientov a ich nákupného správania (Luxusný obchod s kobercami)
 > :memo: **Použité nástroje / Technológie:** Excel
 - Cieľ projektu
-  - Idnetifikácia **najvýkonnejších klientov, vytvorenie databázy** pre predajcov / marketing
+  - Identifikácia **najvýkonnejších klientov, vytvorenie databázy** pre predajcov / marketing
 - Uskutočnené analýzy
   - Párovanie údajov naprieč pokladňou, fakturačného systému a databázou klientov
 - Výsledky a odporúčania
-  - Vytvorenie kvalitného **podlkladu pre rozličnné činosti firmy**
+  - Vytvorenie kvalitného **podlkladu pre rozličnné činnosti firmy**
   - Vytvorený **zoznam pre aktívne oslovenie pomocou marketingových nástrojov** (FB, Googe ADS, poštová zásielka, telefonický kontakt)
   - Vytvorenie **internej smernice pre zakladanie nového klienta** tak aby sa kumulovali údaje na jednom mieste.
   
@@ -77,16 +77,16 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
 - Analýza cenotvorby konkurencie
   - Manuálna rešerš od stola / in-situ
   - Dodávateľská optika
-  - Získanie údajov z marketingových nástrojov (Google ADS/Merchant Center)
+  - Získanie údajov z marketingových nástrojov (Google Ads/Merchant Center)
   - Vzájomné porovnanie metód a vytvorenie odporúčania na úpravu stratégie predaja
 - Hodnota za peniaz
-  - Kontinuálna stratégia hodnotenia čo dostanem za daný peniaz
+  - Kontinuálna stratégia hodnotenia, čo dostanem za daný peniaz
   - Identifikácia možných optimalizácií
   - Identifikácia výkonnosti potencionálnych investícií
 - Monitorovanie KPI výkonnosť jednotlivých predajní
-  - Hrubá ako aj podrobná analýza jednotlivých predajní
+  - Hrubá, ako aj podrobná analýza jednotlivých predajní
   - Na základe pomeru nákladov a výkonu bola ukončená jedna z predajní
-- Hodnotenie investičného potencionálu novej pobočky / sťahovanie
+- Hodnotenie investičného potenciálu novej pobočky / sťahovanie
   - Zber údajov spojené s lokalitou, prieskum trhu, hodnotenie nájomných podmienok
   - Predzmluvné rokovania
   
@@ -95,10 +95,11 @@ Mám skúsenosti s analýzou obchodných dát, tvorbou vizualizácií a sledovan
    > :memo: **Použité nástroje / Technológie:** Python, SQL, Pandas
   - Na základe úbytku (nutná korekcia o prírastky)
   - Identifikácia najvýkonnejších produktov
-  - Historický pohľad, predikcia predaja (aj sezóna), predikcia ďalšieho naskladnenia
+  - Historický pohľad, predikcia predaja, (aj sezóna), predikcia ďalšieho naskladnenia
   - Hodnotenie sily trhu podľa intenzity predaja
   - Identifikácia podielu našej sily u jednotlivých dodávateľov
 
 
 
-## Pozri aj [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio)
+## Pozri: [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio)
+Nájdte tu moje technickejšie zručnosti, ktoré sa skvelo hodia k automatizovanej analýze údajov.
