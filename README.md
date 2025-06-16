@@ -16,6 +16,7 @@ Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpe
   - Identifikácia najúspešnejších produktov (ks, obrat, marža)
   - Identifikácia podielu jednotlivých segmentov na obrate
   - Zo získaných informácií som pripravil odporúčania pre konateľa, ktoré segmenty podporiť v rozvoji a ktoré utlmiť / odstrániť
+  ![Screenshot](podsor.jpg)
 - Preverenie úspešnosti / korekcia pravidiel služby
   - Firma ponúka možnosť si zapožičať koberec pred zakúpením (odstraňuje bariéry v nákupe)
   - Vyhodnotenie štatistiky zapožičania, ktoré následne konvertujú na predaj
@@ -26,6 +27,7 @@ Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpe
   - Podrobná analýza výkonnosti predajcov (10 rokov)
   - Vizuálna prezentácia, obzvlášť sa osvedčil Kumulatívny graf prírastku, keďže v porovnaní bolo vidieť výchylku vo výkonnosti jednotlivých predajcov
   - Identifikácia opakujúcich sa schém u oslabeného výkonu, ktoré vyústili v pohovor so zamestnancom
+    ![Screenshot](kumum.jpg)
 - Monitorovanie KPI výkonnosť jednotlivých predajní
   - Hrubá ako aj podrobná analýza jednotlivých predajní
   - Na základe pomeru nákladov a výkonu bola ukončená jedna z predajní
@@ -43,6 +45,8 @@ Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpe
 - Analýza návštevnosti webstránky
   - Identifikácia trendov sezónneho tovaru
   - Analýza SEO stratégie
+  ![Screenshot](look.jpg)
+
 
   
 ## Iné
