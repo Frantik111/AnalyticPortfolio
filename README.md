@@ -45,7 +45,7 @@ Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpe
 - Analýza návštevnosti webstránky
   - Identifikácia trendov sezónneho tovaru
   - Analýza SEO stratégie
-  ![Screenshot](look.jpg)
+![Screenshot](look.jpg)
 
 
   
